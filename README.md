@@ -7,7 +7,7 @@ This test plays 250Hz, 500Hz, 1000Hz, 2000Hz, 4000Hz, and 8000Hz signals. Each f
 
 ## Running the test
 
-In order to run the test, click the 'Start Test' button.
+In order to run the test, open the 'HearingTest.m' Matlab script file. Once loaded, click 'Run', then click the 'Start Test' button on the GUI that pops up.
 
 Now, either click 'Yes' to indicate that you heard the tone or 'No' to indicate that you did not hear it. Make sure to wait until the sound is finished to click a button.
 
